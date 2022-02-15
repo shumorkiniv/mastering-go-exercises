@@ -8,4 +8,5 @@ Exercises categories: \
 2.[Input](input) \
 3.[Output](output) \
 4.[Packages](packagesdownloading) \
-5.[Errors](errorhandling)
+5.[Errors](errorhandling) \
+6.[Garbage collector](gc)
