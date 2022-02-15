@@ -7,4 +7,5 @@ Exercises categories: \
 1.[Compilation](compilation) \
 2.[Input](input) \
 3.[Output](output) \
-4.[Packages](packagesdownloading)
+4.[Packages](packagesdownloading) \
+5.[Errors](errorhandling)
