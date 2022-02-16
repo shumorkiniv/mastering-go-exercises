@@ -15,4 +15,5 @@ Exercises categories: \
 9.[Defer](defer) \
 10.[Panic](panic) \
 11.[Environment](env) \
-12.[Node tree](nodetree)
+12.[Node tree](nodetree) \
+13.[WebAssembly](webassembly)
