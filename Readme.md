@@ -13,4 +13,5 @@ Exercises categories: \
 7.[Unsafe code](unsafe) \
 8.[C code](c) \
 9.[Defer](defer) \
-10.[Panic](panic)
+10.[Panic](panic) \
+11.[Environment](env)
