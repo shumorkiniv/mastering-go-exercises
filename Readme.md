@@ -16,4 +16,5 @@ Exercises categories: \
 10.[Panic](panic) \
 11.[Environment](env) \
 12.[Node tree](nodetree) \
-13.[WebAssembly](webassembly)
+13.[WebAssembly](webassembly) \
+14.[Data types and loops](datatypesandloops)
