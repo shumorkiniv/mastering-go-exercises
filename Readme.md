@@ -9,4 +9,6 @@ Exercises categories: \
 3.[Output](output) \
 4.[Packages](packagesdownloading) \
 5.[Errors](errorhandling) \
-6.[Garbage collector](gc)
+6.[Garbage collector](gc) \
+7.[Unsafe code](unsafe) \
+8.[C code](c)
