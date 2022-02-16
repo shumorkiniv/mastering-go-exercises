@@ -11,4 +11,6 @@ Exercises categories: \
 5.[Errors](errorhandling) \
 6.[Garbage collector](gc) \
 7.[Unsafe code](unsafe) \
-8.[C code](c)
+8.[C code](c) \
+9.[Defer](defer) \
+10.[Panic](panic)
