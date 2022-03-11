@@ -17,4 +17,8 @@ Exercises categories: \
 11.[Environment](env) \
 12.[Node tree](nodetree) \
 13.[WebAssembly](webassembly) \
-14.[Data types and loops](datatypesandloops)
+14.[Data types and loops](datatypesandloops) \
+15.[Slices](slices) \
+16.[Maps](maps) \
+17.[Pointers](pointers) \
+18.[Date 'n' Time](datetime)
